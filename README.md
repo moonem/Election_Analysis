@@ -43,6 +43,6 @@ Another use case may appear where some new information would be required for the
 ![election_results.txt](/Resources/retrieve_new_items_Snapshot.png)
 
 
-##### Contact:
-    m.a.moonem@gmail.com
+#### Contact:
+   m.a.moonem@gmail.com
     
