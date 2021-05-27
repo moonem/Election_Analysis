@@ -41,3 +41,7 @@ For example, there might be more than 3 columns of information in case of Nation
 Another use case may appear where some new information would be required for the election results, for example, "Who won the most popular vote as a presidential nominee?" In such cases we will need to introduce additional conditional loops (i.e. **for, if**) under the main code script using proper indentation. The following figure shows how the *County* vote information was collected, in addition to the candidate information, from the *election_results.csv*  dataset.
 
 ![election_results.txt](/Resources/retrieve_new_items_Snapshot.png)
+
+
+##### Contact:
+    m.a.moonem@gmail.com
